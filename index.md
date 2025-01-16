@@ -6,7 +6,7 @@
 
 ## Daily Schedules (Kept Retrospectively)
 
-* A [daily summary] of our class sessions.
+* A [daily summary](.daily_schedule_first_project.html) of our class sessions.
 * A [calendar](./engl106_daily_tasks.pdf) of recommended daily tasks.
 
 ## Required Resources
